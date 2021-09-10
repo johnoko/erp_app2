@@ -1,0 +1,4 @@
+[2021-09-05 19:09:03] live.EMERGENCY: File:/home3/crowdfbr/erp.crowdafricahost.xyz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2021-09-05 19:12:33] live.EMERGENCY: File:/home3/crowdfbr/erp.crowdafricahost.xyz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2021-09-05 19:13:39] live.EMERGENCY: File:/home3/crowdfbr/erp.crowdafricahost.xyz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2021-09-05 19:13:57] live.EMERGENCY: File:/home3/crowdfbr/erp.crowdafricahost.xyz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  

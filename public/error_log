@@ -1,0 +1,1 @@
+[17-Aug-2021 21:54:26 Asia/Kolkata] PHP Notice:  PDO::__construct(): send of 158 bytes failed with errno=32 Broken pipe in /home3/crowdfbr/erp.crowdafricahost.xyz/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 70
